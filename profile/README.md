@@ -7,12 +7,3 @@ Currently, I am building resources for a server I am developing but I still want
 I don't have the time to create bridges for other frameworks that I am not familiar developing with. If you want to bridge it, feel free to, but please do not spam "when ESX", "When QB", or other ones. If you want it that bad, you should learn to do it yourself. It did wonders for me.
 ### Why did I leave?
 Long story short, I had mommy issues and didn't realize it until it hit like a truck. I freaked out and felt I needed to step away from a lot of things I was doing and about a year later I realized that was not the move. I do apologize to everyone for just removing my scripts, I was not thinking properly. Thank god for [DaveFl67](https://github.com/davefl67) for saving most of the older resources. You can still find them there and I do plan to revamp them down the road.
-
-## Current Projects
-- [MI OxItems](https://github.com/Mesa-Indigo/mi_oxitems)
-- [MI Utils](https://github.com/Mesa-Indigo/mi_utils)
-- [MI Job Template](https://github.com/Mesa-Indigo/mi_template_job)
-- [MI Education](https://github.com/Mesa-Indigo/mi_education)
-- [MI Party Central](https://github.com/Mesa-Indigo/mi_partycentral)
-- [MI OxHud](https://github.com/Mesa-Indigo/mi_oxhud)
-- [MI Stream](https://github.com/Mesa-Indigo/mi_stream)
