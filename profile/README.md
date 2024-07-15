@@ -4,7 +4,7 @@
 # Current Planning:
 | Category                       | Resources |
 | :---                           |     :---:      |
-| **Core**                       | Ox Items / Utilities / Streaming |
+| **Core**                       | Ox Items / Utilities / Streaming / Resources |
 | **Job Packs**                  | Simple / Food / First Responder / Businesses |
 | **Hesists**                    | Vangelico / Fleeca / P.S. Bank / B.C. Savings |
 | **Interactions**               | Party Central / Camping System / Hunting System |
