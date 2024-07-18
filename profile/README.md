@@ -9,7 +9,7 @@
 | **Hesists**                    | Vangelico / Fleeca / P.S. Bank / B.C. Savings |
 | **Interactions**               | Party Central / Camping System / Hunting System |
 | **Crime**                      | Drugs System / Blackmarket / Gun Running / Gangs |
-| **Player**                     | Education System / Housing System |
+| **Player**                     | Education / Housing / Medical |
 
 ## F.A.Q.
 ### Why did I leave?
