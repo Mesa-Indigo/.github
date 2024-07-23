@@ -1,6 +1,8 @@
 # Mesa Indigo 🦝 Fivem / Ox_Core development
 *"A wise man once said, stop making me quote shit I didn't say"* - Sun Tzu, quoting Abraham Lincoln
 
+**Making free scripts with quality, updates, and a sprinkle of trashy goodness**
+
 # Current Planning:
 | Category                       | Resources |
 | :---                           |     :---:      |
