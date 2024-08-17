@@ -5,6 +5,8 @@
 
 **Making free scripts with quality, updates, and a sprinkle of trashy goodness**
 
+**Resource Documentation: [M.I. Resources](https://mesa-indigo.gitbook.io/m.i.-resources/)**
+
 # Current Planning:
 | Category                       | Resources |
 | :---                           |     :---:      |
