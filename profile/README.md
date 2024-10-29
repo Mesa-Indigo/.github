@@ -1,6 +1,13 @@
-![Background](https://github.com/user-attachments/assets/a9233b40-21ae-47f5-858f-b9b208f142b9)
-# Mesa Indigo 🦝 Fivem development
+<p align="center"> <a> <img width="180" src="https://github.com/user-attachments/assets/7e3c0553-d047-4547-9829-cad2230886fa" alt="SnailyCAD logo"> </a> </p>
 
-<img alt="Discord" src="https://img.shields.io/discord/1262181565396680756?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Discord&labelColor=%237289da&color=%23424549&link=https%3A%2F%2Fdiscord.gg%2FEtgZsVBtYB"> 
+# Mesa Indigo Development
+Dedicated to creating free FiveM resources with quality and trashy goodness. From items, world systems, jobs, and other server resources, you may never need to spend another penny for a script again.
 
-**[Documentation](https://mesa-indigo.gitbook.io/m.i.-resources/)**  |  **[Discord](https://discord.gg/EtgZsVBtYB)**  |  **[Patreon](https://www.patreon.com/Agimir)**
+<a href="https://discord.gg/EtgZsVBtYB">
+  <img src="https://invite.casperiv.dev?inviteCode=EtgZsVBtYB&locale=en" />
+</a>
+
+### Links
+- [Documentation](https://mesa-indigo.gitbook.io/midevelopment/standalone-resources/m.i.-items)
+- [Patreon](https://www.patreon.com/Agimir)
+
