@@ -3,10 +3,8 @@
 # Mesa Indigo Development
 Dedicated to creating free FiveM resources with quality and trashy goodness. From items, world systems, jobs, and other server resources, you may never need to spend another penny for a script again.
 
+If you would like to support my work, please look at my [Patreon](https://www.patreon.com/Agimir)
+
 <a href="https://discord.gg/EtgZsVBtYB">
   <img src="https://invite.casperiv.dev?inviteCode=EtgZsVBtYB&locale=en" />
 </a>
-
-### Links
-- [Documentation](https://mesa-indigo.gitbook.io/midevelopment/standalone-resources/m.i.-items)
-- [Patreon](https://www.patreon.com/Agimir)
